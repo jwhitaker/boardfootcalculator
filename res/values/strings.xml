@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Board Foot Calculator</string>
+    <string name="length">Length</string>
+    <string name="width">Width</string>
+    <string name="height">Height</string>
+    <string name="board_feet">Board Feet</string>
+
+    <string-array name="measurements_array">
+        <item>inches</item>
+        <item>feet</item>
+    </string-array>
+    
+	<string name="calculate">Calculate</string>
+</resources>
